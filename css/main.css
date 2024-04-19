@@ -270,4 +270,9 @@ main {
   background-color: var(--type-fairy);
   color: var(--clr-black);
 }
+.icon-info {
+  display: flex;
+  justify-content: center;
+  font-size: small;
+}
 
